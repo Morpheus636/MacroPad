@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/josh/Documents/MicroElectronics/Macro Pad/Macro Pad.kicad_sch</source>
+    <date>Tue 17 Jan 2023 05:35:22 PM EST</date>
+    <tool>Eeschema 6.0.10</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Pi Pico Macro Pad</title>
+        <company/>
+        <rev>1.0</rev>
+        <date>2023-01-17</date>
+        <source>Macro Pad.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc5356ed-edd2-42da-95bd-127d955a67e9</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push</value>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6dda7a28-5389-4a83-9363-bf684b7fdc76</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_Push</value>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91a51b87-c9f4-4947-bdf1-48f5f4968070</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_Push</value>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92d3bf0f-49e1-4e9c-8909-c52d6264e3bb</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_Push</value>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd875933-e4b2-417d-b5ef-5598689e35c6</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_Push</value>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0407abc-f7ba-4228-a532-8464280e7016</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_Push</value>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49378e36-45d1-4562-b43a-e9815132b69f</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_Push</value>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ccd60455-5ec5-4c0e-b7d3-21ddb28d6e57</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>SW_Push</value>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11a8735e-2258-4423-b28d-15e938e9fa3b</tstamps>
+    </comp>
+    <comp ref="SW10">
+      <value>SW_Push</value>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f0d5667-8aad-4b46-9954-535fb786c6a4</tstamps>
+    </comp>
+    <comp ref="SW11">
+      <value>SW_Push</value>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a28edd6-730e-45ad-bd54-acea47ae9ad4</tstamps>
+    </comp>
+    <comp ref="SW12">
+      <value>SW_Push</value>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f2c832e-10cd-46eb-ad9b-1f0ab26399c5</tstamps>
+    </comp>
+    <comp ref="SW13">
+      <value>SW_Push</value>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0585e29-d8bb-4b93-8ded-482022c20fc9</tstamps>
+    </comp>
+    <comp ref="SW14">
+      <value>SW_Push</value>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c564761-7212-49a5-bb87-535b32d2fd6c</tstamps>
+    </comp>
+    <comp ref="SW15">
+      <value>SW_Push</value>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b85c329a-4dfb-49da-a510-7c84b956dece</tstamps>
+    </comp>
+    <comp ref="SW16">
+      <value>Rotary_Encoder_Inland_078758</value>
+      <datasheet>https://community.microcenter.com/kb/articles/640-inland-rotary-encoder-module</datasheet>
+      <libsource lib="Inland_Modules" part="Rotary_Encoder_Inland_078758" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77d76ed2-7e8e-4e6b-adef-b81a191938e7</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>Pico</value>
+      <footprint>RPi_Pico:RPi_Pico_SMD_TH</footprint>
+      <datasheet>https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf</datasheet>
+      <libsource lib="MCU_RaspberryPi_and_Boards" part="Pico" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Macro Pad.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6df6858-26de-450a-8ebb-7348d10082f9</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Inland_Modules" part="Rotary_Encoder_Inland_078758">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">Rotary_Encoder_Inland_078758</field>
+      </fields>
+      <pins>
+        <pin num="" name="CLK" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_RaspberryPi_and_Boards" part="Pico">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">Pico</field>
+        <field name="Footprint">RPi_Pico:RPi_Pico_SMD_TH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GPIO0" type="bidirectional"/>
+        <pin num="2" name="GPIO1" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GPIO2" type="bidirectional"/>
+        <pin num="5" name="GPIO3" type="bidirectional"/>
+        <pin num="6" name="GPIO4" type="bidirectional"/>
+        <pin num="7" name="GPIO5" type="bidirectional"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="GPIO6" type="bidirectional"/>
+        <pin num="10" name="GPIO7" type="bidirectional"/>
+        <pin num="11" name="GPIO8" type="bidirectional"/>
+        <pin num="12" name="GPIO9" type="bidirectional"/>
+        <pin num="13" name="GND" type="power_in"/>
+        <pin num="14" name="GPIO10" type="bidirectional"/>
+        <pin num="15" name="GPIO11" type="bidirectional"/>
+        <pin num="16" name="GPIO12" type="bidirectional"/>
+        <pin num="17" name="GPIO13" type="bidirectional"/>
+        <pin num="18" name="GND" type="power_in"/>
+        <pin num="19" name="GPIO14" type="bidirectional"/>
+        <pin num="20" name="GPIO15" type="bidirectional"/>
+        <pin num="21" name="GPIO16" type="bidirectional"/>
+        <pin num="22" name="GPIO17" type="bidirectional"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="GPIO18" type="bidirectional"/>
+        <pin num="25" name="GPIO19" type="bidirectional"/>
+        <pin num="26" name="GPIO20" type="bidirectional"/>
+        <pin num="27" name="GPIO21" type="bidirectional"/>
+        <pin num="28" name="GND" type="power_in"/>
+        <pin num="29" name="GPIO22" type="bidirectional"/>
+        <pin num="30" name="RUN" type="input"/>
+        <pin num="31" name="GPIO26_ADC0" type="bidirectional"/>
+        <pin num="32" name="GPIO27_ADC1" type="bidirectional"/>
+        <pin num="33" name="AGND" type="power_in"/>
+        <pin num="34" name="GPIO28_ADC2" type="bidirectional"/>
+        <pin num="35" name="ADC_VREF" type="power_in"/>
+        <pin num="36" name="3V3" type="power_in"/>
+        <pin num="37" name="3V3_EN" type="input"/>
+        <pin num="38" name="GND" type="bidirectional"/>
+        <pin num="39" name="VSYS" type="power_in"/>
+        <pin num="40" name="VBUS" type="power_in"/>
+        <pin num="41" name="SWCLK" type="input"/>
+        <pin num="42" name="GND" type="power_in"/>
+        <pin num="43" name="SWDIO" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Inland_Modules">
+      <uri>/home/josh/.kickad-custom/Custom Symbols/Inland_Modules.kicad_sym</uri>
+    </library>
+    <library logical="MCU_RaspberryPi_and_Boards">
+      <uri>/home/josh/.kickad-custom/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/app/extensions/Library/symbols//Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(SW16-Pad)">
+      <node ref="SW16" pin="" pinfunction="CLK" pintype="output"/>
+      <node ref="U1" pin="1" pinfunction="GPIO0" pintype="bidirectional"/>
+    </net>
+    <net code="2" name="Net-(SW16-Pad)_1">
+      <node ref="SW16" pin="" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U1" pin="40" pinfunction="VBUS" pintype="power_in"/>
+    </net>
+    <net code="3" name="Net-(SW16-Pad)_2">
+      <node ref="SW16" pin="" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="4" name="Net-(U1-Pad2)">
+      <node ref="SW16" pin="" pinfunction="DT" pintype="output"/>
+      <node ref="U1" pin="2" pinfunction="GPIO1" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="Net-(U1-Pad4)">
+      <node ref="SW16" pin="" pinfunction="SW" pintype="output"/>
+      <node ref="U1" pin="4" pinfunction="GPIO2" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="unconnected-(SW1-Pad1)">
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="7" name="unconnected-(SW1-Pad2)">
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="8" name="unconnected-(SW2-Pad1)">
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="9" name="unconnected-(SW2-Pad2)">
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="10" name="unconnected-(SW3-Pad1)">
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="11" name="unconnected-(SW3-Pad2)">
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="12" name="unconnected-(SW4-Pad1)">
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="13" name="unconnected-(SW4-Pad2)">
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="14" name="unconnected-(SW5-Pad1)">
+      <node ref="SW5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="15" name="unconnected-(SW5-Pad2)">
+      <node ref="SW5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="16" name="unconnected-(SW6-Pad1)">
+      <node ref="SW6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="17" name="unconnected-(SW6-Pad2)">
+      <node ref="SW6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="18" name="unconnected-(SW7-Pad1)">
+      <node ref="SW7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="19" name="unconnected-(SW7-Pad2)">
+      <node ref="SW7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="20" name="unconnected-(SW8-Pad1)">
+      <node ref="SW8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="21" name="unconnected-(SW8-Pad2)">
+      <node ref="SW8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="22" name="unconnected-(SW9-Pad1)">
+      <node ref="SW9" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="23" name="unconnected-(SW9-Pad2)">
+      <node ref="SW9" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="24" name="unconnected-(SW10-Pad1)">
+      <node ref="SW10" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="25" name="unconnected-(SW10-Pad2)">
+      <node ref="SW10" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="26" name="unconnected-(SW11-Pad1)">
+      <node ref="SW11" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="27" name="unconnected-(SW11-Pad2)">
+      <node ref="SW11" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="28" name="unconnected-(SW12-Pad1)">
+      <node ref="SW12" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="29" name="unconnected-(SW12-Pad2)">
+      <node ref="SW12" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="30" name="unconnected-(SW13-Pad1)">
+      <node ref="SW13" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="31" name="unconnected-(SW13-Pad2)">
+      <node ref="SW13" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="32" name="unconnected-(SW14-Pad1)">
+      <node ref="SW14" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="33" name="unconnected-(SW14-Pad2)">
+      <node ref="SW14" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="34" name="unconnected-(SW15-Pad1)">
+      <node ref="SW15" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="35" name="unconnected-(SW15-Pad2)">
+      <node ref="SW15" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="36" name="unconnected-(U1-Pad5)">
+      <node ref="U1" pin="5" pinfunction="GPIO3" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="unconnected-(U1-Pad6)">
+      <node ref="U1" pin="6" pinfunction="GPIO4" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="unconnected-(U1-Pad7)">
+      <node ref="U1" pin="7" pinfunction="GPIO5" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="unconnected-(U1-Pad8)">
+      <node ref="U1" pin="8" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="40" name="unconnected-(U1-Pad9)">
+      <node ref="U1" pin="9" pinfunction="GPIO6" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="unconnected-(U1-Pad10)">
+      <node ref="U1" pin="10" pinfunction="GPIO7" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="unconnected-(U1-Pad11)">
+      <node ref="U1" pin="11" pinfunction="GPIO8" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="unconnected-(U1-Pad12)">
+      <node ref="U1" pin="12" pinfunction="GPIO9" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="unconnected-(U1-Pad13)">
+      <node ref="U1" pin="13" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="45" name="unconnected-(U1-Pad14)">
+      <node ref="U1" pin="14" pinfunction="GPIO10" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="unconnected-(U1-Pad15)">
+      <node ref="U1" pin="15" pinfunction="GPIO11" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="unconnected-(U1-Pad16)">
+      <node ref="U1" pin="16" pinfunction="GPIO12" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="unconnected-(U1-Pad17)">
+      <node ref="U1" pin="17" pinfunction="GPIO13" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="unconnected-(U1-Pad18)">
+      <node ref="U1" pin="18" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="50" name="unconnected-(U1-Pad19)">
+      <node ref="U1" pin="19" pinfunction="GPIO14" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="unconnected-(U1-Pad20)">
+      <node ref="U1" pin="20" pinfunction="GPIO15" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="unconnected-(U1-Pad21)">
+      <node ref="U1" pin="21" pinfunction="GPIO16" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="unconnected-(U1-Pad22)">
+      <node ref="U1" pin="22" pinfunction="GPIO17" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="unconnected-(U1-Pad23)">
+      <node ref="U1" pin="23" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="55" name="unconnected-(U1-Pad24)">
+      <node ref="U1" pin="24" pinfunction="GPIO18" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="unconnected-(U1-Pad25)">
+      <node ref="U1" pin="25" pinfunction="GPIO19" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="unconnected-(U1-Pad26)">
+      <node ref="U1" pin="26" pinfunction="GPIO20" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="unconnected-(U1-Pad27)">
+      <node ref="U1" pin="27" pinfunction="GPIO21" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="unconnected-(U1-Pad28)">
+      <node ref="U1" pin="28" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="60" name="unconnected-(U1-Pad29)">
+      <node ref="U1" pin="29" pinfunction="GPIO22" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="unconnected-(U1-Pad30)">
+      <node ref="U1" pin="30" pinfunction="RUN" pintype="input"/>
+    </net>
+    <net code="62" name="unconnected-(U1-Pad31)">
+      <node ref="U1" pin="31" pinfunction="GPIO26_ADC0" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="unconnected-(U1-Pad32)">
+      <node ref="U1" pin="32" pinfunction="GPIO27_ADC1" pintype="bidirectional"/>
+    </net>
+    <net code="64" name="unconnected-(U1-Pad33)">
+      <node ref="U1" pin="33" pinfunction="AGND" pintype="power_in"/>
+    </net>
+    <net code="65" name="unconnected-(U1-Pad34)">
+      <node ref="U1" pin="34" pinfunction="GPIO28_ADC2" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="unconnected-(U1-Pad35)">
+      <node ref="U1" pin="35" pinfunction="ADC_VREF" pintype="power_in"/>
+    </net>
+    <net code="67" name="unconnected-(U1-Pad36)">
+      <node ref="U1" pin="36" pinfunction="3V3" pintype="power_in"/>
+    </net>
+    <net code="68" name="unconnected-(U1-Pad37)">
+      <node ref="U1" pin="37" pinfunction="3V3_EN" pintype="input"/>
+    </net>
+    <net code="69" name="unconnected-(U1-Pad38)">
+      <node ref="U1" pin="38" pinfunction="GND" pintype="bidirectional"/>
+    </net>
+    <net code="70" name="unconnected-(U1-Pad39)">
+      <node ref="U1" pin="39" pinfunction="VSYS" pintype="power_in"/>
+    </net>
+    <net code="71" name="unconnected-(U1-Pad41)">
+      <node ref="U1" pin="41" pinfunction="SWCLK" pintype="input"/>
+    </net>
+    <net code="72" name="unconnected-(U1-Pad42)">
+      <node ref="U1" pin="42" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="73" name="unconnected-(U1-Pad43)">
+      <node ref="U1" pin="43" pinfunction="SWDIO" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>
